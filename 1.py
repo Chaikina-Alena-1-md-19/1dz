@@ -1,2 +1,2 @@
-a = "Alenaa"
+a = "Alena"
 print(a)
